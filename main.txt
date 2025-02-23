@@ -1,0 +1,23 @@
+<main>
+<h1>ONLINE GALLERY</h1>
+<section>
+  <h2>Category: Anime</h2>
+</section>
+<section>
+  <center>
+  <p><h1>.・゜゜・ ⋇⊶⊰❣⊱⊷⋇ ・゜゜・．</h1></p>
+  <p><h2>⚜</h2></p>
+  <p><h3>⚜</h3></p>
+  </center>
+</section>
+<section>
+  <figure>
+  <img src="https://i.imgur.com/0dkaX3N.png" alt="Tomie reference" style="display: block; margin-bottom: 30px;">
+   <img src="https://i.imgur.com/1AKPEdV.jpeg" alt="Attack On Titan Mikasa" style="display: block; margin-bottom: 30px;">
+    <img src="https://i.imgur.com/vGH2xy6.png" alt="Naruto Shippuden Itachi" style="display: block; margin-bottom: 30px">
+    <img src="https://i.imgur.com/Zkzf1WG.png" alt="Jujutsu Kaisen Gojo" style="display: block; margin-bottom: 40px">
+  </figure>
+</main>
+<footer>
+  <p>© 2025 Pawiaw. All rights reserved.</p>
+</footer>
